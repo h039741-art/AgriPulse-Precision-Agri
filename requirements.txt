@@ -1,0 +1,13 @@
+{
+  "soil_id": "SOIL_001",
+  "target_crop": "TOMATO",
+  "health_metrics": {
+    "overall_health": "Deficient",
+    "critical_deficiencies": ["Potassium"]
+  },
+  "recommendation": {
+    "fertilizer_plan": "Apply MOP (Muriate of Potash)",
+    "suitability_score": 85.0
+  },
+  "ai_explanation": "Potassium is vital for water regulation and enzyme activation in tomatoes."
+}
