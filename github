@@ -1,0 +1,18 @@
+# AgriPulse: Precision Agriculture AI
+
+## 🚀 Overview
+[cite_start]AgriPulse is a web application designed to help small-scale farmers translate NPK soil data into actionable planting strategies[cite: 2, 3].
+
+## 🛠️ Installation
+1. Clone the repo: `git clone <repo-url>`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `python app.py`
+
+## 📊 Core Features
+- [cite_start]**CSV Parser:** Ingests soil nutrient data (Nitrogen, Phosphorus, Potassium, pH)[cite: 4, 17].
+- [cite_start]**Hard-Coded Logic Engine:** Strictly follows the AgriPulse scoring algorithm, including the Critical Crop Penalty[cite: 13, 15].
+- [cite_start]**AI Insights:** Provides farmer-friendly explanations for nutrient deficiencies[cite: 6].
+- [cite_start]**Visual Dashboard:** Color-coded (Green/Yellow/Red) suitability indicators[cite: 7].
+
+## ⚖️ License
+MIT License
