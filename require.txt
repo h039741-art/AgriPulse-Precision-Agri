@@ -1,0 +1,4 @@
+flask
+pandas
+openai  # Or your chosen LLM library [cite: 6]
+python-dotenv
